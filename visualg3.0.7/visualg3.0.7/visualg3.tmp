@@ -1,0 +1,8 @@
+Algoritmo "prova"
+var
+numero: inteiro
+inicio
+escreva ("Entre com um número inteiro positivo com três dígitos: ")
+leia (numero)
+escreval ("Número resultante da inversão dos dígitos: ", (numero%10*100)+ (numero\10%10*10)+(numero\10\10))
+fimalgoritmo

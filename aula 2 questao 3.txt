@@ -1,0 +1,15 @@
+N = int(input("Digite N: "))
+i = 0
+ma = 'maior'
+me = 'menor'
+me = x
+while i < N:
+    x = float(input("Digite um número: "))
+    ma = x
+    me < ma
+    i = i + 1
+    if x > ma:
+        ma = x
+    if x < me:
+        me = x
+print ('O maior valor digitado foi {} e o menor foi {}'.format(ma,me))
