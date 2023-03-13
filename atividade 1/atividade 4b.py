@@ -8,4 +8,4 @@
 #é um jovem homem".
 #● Se a pessoa for do sexo masculino e tiver 25 anos ou mais, imprima "Você é
 #um homem adulto".
-print("teste")
+
