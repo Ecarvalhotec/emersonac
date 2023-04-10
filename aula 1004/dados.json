@@ -1,0 +1,76 @@
+{
+  "funcionarios": [
+    {
+      "ID": 1,
+      "Nome": "João Silva",
+      "Salario": 3000,
+      "ID_Departamento": 1
+    },
+    {
+      "ID": 2,
+      "Nome": "Maria Souza",
+      "Salario": 4000,
+      "ID_Departamento": 1
+    },
+    {
+      "ID": 3,
+      "Nome": "Pedro Santos",
+      "Salario": 5000,
+      "ID_Departamento": 1
+    },
+    {
+      "ID": 4,
+      "Nome": "Julia Ferreira",
+      "Salario": 3500,
+      "ID_Departamento": 2
+    },
+    {
+      "ID": 5,
+      "Nome": "Fernando Oliveira",
+      "Salario": 4500,
+      "ID_Departamento": 2
+    },
+    {
+      "ID": 6,
+      "Nome": "Ana Paula Costa",
+      "Salario": 5500,
+      "ID_Departamento": 2
+    },
+    {
+      "ID": 7,
+      "Nome": "Lucas Mendes",
+      "Salario": 6000,
+      "ID_Departamento": 2
+    },
+    {
+      "ID": 8,
+      "Nome": "Carla Santos",
+      "Salario": 4000,
+      "ID_Departamento": 1
+    },
+    {
+      "ID": 9,
+      "Nome": "Márcio Souza",
+      "Salario": 4500,
+      "ID_Departamento": 1
+    },
+    {
+      "ID": 10,
+      "Nome": "Patrícia Lima",
+      "Salario": 5000,
+      "ID_Departamento": 2
+    }
+  ],
+  "departamentos": [
+    {
+      "ID": 1,
+      "Nome": "Vendas",
+      "Localizacao": "São Paulo"
+    },
+    {
+      "ID": 2,
+      "Nome": "Marketing",
+      "Localizacao": "Rio de Janeiro"
+    }
+  ]
+}
