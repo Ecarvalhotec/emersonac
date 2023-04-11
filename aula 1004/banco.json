@@ -1,0 +1,18 @@
+{
+    "funcionario": [
+        {"Id_funcionario": "001", "Nome": "Maria","cpf": "11111111111","Id_departamento": "1"},
+        {"Id_funcionario": "002", "Nome": "João","cpf": "22222222222","Id_departamento": "2"},
+        {"Id_funcionario": "003", "Nome": "Jose","cpf": "33333333333","Id_departamento": "1"},
+        {"Id_funcionario": "004", "Nome": "Alberto","cpf": "44444444444","Id_departamento": "2"},
+        {"Id_funcionario": "005", "Nome": "Rodrigo","cpf": "555555555555","Id_departamento": "1"},
+        {"Id_funcionario": "006", "Nome": "Rebeca","cpf": "66666666666","Id_departamento": "2"},
+        {"Id_funcionario": "007", "Nome": "Diogo","cpf": "77777777777","Id_departamento": "1"},
+        {"Id_funcionario": "008", "Nome": "Lethycia","cpf": "88888888888","Id_departamento": "2"},
+        {"Id_funcionario": "009", "Nome": "Gabriel","cpf": "99999999999","Id_departamento": "1"},
+        {"Id_funcionario": "010", "Nome": "Antonio","cpf": "10101010101","Id_departamento": "2"}
+    ],
+    "departamento": [
+        {"Id_departamento": "1", "setor": "Comercial","nome_dep": "vendas"},
+        {"Id_departamento": "2", "setor": "RH","nome_dep": "recursos humanos"}
+    ]
+}
